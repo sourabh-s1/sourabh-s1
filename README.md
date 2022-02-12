@@ -18,8 +18,8 @@
             <strong>
                 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br><br>
                 I specilize in MERN stack. I have proficient knowladge about building RESTful api with CRUD controllers in Express.js and Node.js. I also vary experienced in building React applications with Redux and dedploying them. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                I am passionate about learning React and Redux, all Front-End Technologies, Figma, MongoDB, Node, , Heroku, and Redis.<br><br>
+                Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
         <ul>
