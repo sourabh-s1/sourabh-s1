@@ -32,8 +32,27 @@
         </ul>
     </div>
     <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=darkgreen" alt="javascript"  /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
- alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" /> </a>  </a> <a href="https://www.python.org" target="_blank">  </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/CSS3-%23FF9900.svg?style=for-the-badge&logo=amazon-css3&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/Heroku-5C2D91.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="javascript"  /> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+
+
+</p>
     <div align=center>
         <h1>Contribution Activity</h1>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-s1&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"><br>
