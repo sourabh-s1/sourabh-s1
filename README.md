@@ -7,9 +7,9 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/sourabh-hupare/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://stackoverflow.com/users/17941697/sourabh"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         <a href="https://www.quora.com/profile/Sourabh-Hupare"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://twitter.com/SourabhHupare"><img src="https://img.shields.io/badge/Twitter-199AFF?style=flat&logo=twitter" alt="Twitter" /></a>
+        <a href="https://twitter.com/SourabhHupare"><img src="https://img.shields.io/badge/Twitter-199AFF?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
     </div>
     <div align=left>
         <br>
