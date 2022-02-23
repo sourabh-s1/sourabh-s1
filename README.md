@@ -26,7 +26,7 @@
             <li>🎯 <b>I’m currently focusing on</b>: <a href="rohit753.github.io/naykaa-clone/">Nykaa Clone</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1ch-hWAX2ZwaswxV-WzVUB_Drm901NW4l/view?usp=sharing" target="_blank" rel="noopener noreferrer">LINK TO MY RESUME</a></li>
             <li>📫 <b>How to reach me on mail-<a href="sourabhhupare1@gmail.com">sourabhhupare1@gmail.com</a></b> or Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Gaming(🎮), Codeing(💻), Traveling(🌍), and Photography(📷) and I love building responsive 3D websites.</li>
+            <li>😄 <b>Fun fact</b>: I love Gaming(🎮), Codeing(💻), Traveling(🌍), and Photography(📷) and building responsive 3D websites.</li>
         </ul>
     </div>
     <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
