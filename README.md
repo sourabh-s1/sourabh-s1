@@ -62,7 +62,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> </a>
 <img src="https://img.shields.io/badge/yarn-5C2D91.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="javascript"  /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> </a>
-<img src="https://img.shields.io/badge/firebase-5C2D91.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="javascript"  /> </a> 
+<img src="https://img.shields.io/badge/firebase-5C2D91.svg?style=for-the-badge&logo=firebase" alt="javascript"  /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> </a>
 
 
