@@ -64,8 +64,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> </a>
 <img src="https://img.shields.io/badge/firebase-ffcc31.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="javascript"  /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> </a>
-<img src="https://img.shields.io/badge/firebase-.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="javascript"  /> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> </a>
+
 
 
 </p>
