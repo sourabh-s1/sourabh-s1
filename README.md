@@ -1,126 +1,83 @@
-# Hi there 👋 I'm Sourabh Hupare
+<div align="center">
 
-### Backend Software Engineer | Java | Spring Boot | AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sourabh+%F0%9F%91%8B;Java+Backend+Developer;Fintech+%26+Distributed+Systems;Building+Trust+Layers+for+AI+Agents" alt="Typing SVG" />
 
-I'm a backend software engineer with **4+ years of experience** building enterprise banking applications and modern microservices. I enjoy solving complex backend problems, designing scalable systems, and exploring how AI can improve software engineering workflows.
-
----
-
-## 🚀 About Me
-
-* 💻 Backend Developer specializing in **Java & Spring Boot**
-* 🏦 Experience working on enterprise banking and financial applications
-* ☁️ Learning cloud-native technologies including **Docker, Kubernetes, and AWS**
-* 🤖 Passionate about integrating AI into software development
-* 📚 Always learning new technologies and improving system design skills
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 🧭 About Me
 
-### Languages
-
-* Java
-* SQL
-* JavaScript
-* HTML
-* CSS
-
-### Backend
-
-* Spring Boot
-* Spring MVC
-* Spring Security
-* Hibernate / JPA
-* REST APIs
-* Apache Camel
-* Quartz Scheduler
-
-### Databases
-
-* PostgreSQL
-* Microsoft SQL Server
-* MySQL
-* H2
-
-### DevOps & Cloud
-
-* Docker
-* Kubernetes
-* Git
-* GitHub Actions
-* Maven
-* Linux
-
-### Tools
-
-* IntelliJ IDEA
-* VS Code
-* Postman
-* DBeaver
-* Docker Desktop
-* Burp Suite
+- 🔧 Backend Developer with **4+ years** of experience building fintech systems at **Vayana Network**, Pune — supply chain finance platforms at scale
+- 🏗️ Core stack: **Java 17, Spring Boot, Microservices, Kafka, Apache Camel, Docker, MySQL, MongoDB**
+- 🎯 Currently targeting backend / AI-infra roles in **Europe** (UK 🇬🇧 · Germany 🇩🇪 · Netherlands 🇳🇱)
+- 🧠 Exploring where backend engineering meets applied AI — RAG systems, agent governance, observability
+- 🎓 Mechanical Engineering background, transitioned into software via a full-stack bootcamp
+- ⚔️ Off the clock: FromSoftware games, psychological thrillers, and dark, atmospheric world-building — it tends to show up in how I name my projects
 
 ---
 
-## 🌱 Currently Learning
+### 🛠️ Currently Building
 
-* Kubernetes
-* AWS
-* Kafka
-* AI Agents
-* LLM Integration
-* System Design
-* Observability
+| Project | What it does |
+|---|---|
+| **Trust & Spend-Governance Layer for AI Agents** | Policy enforcement + audit-trail system for autonomous AI agent spending, grounded in emerging AP2 / machine-economy standards |
+| **DocuMind** | Fintech-oriented RAG knowledge assistant — Spring Boot, Spring AI, pgvector, async ingestion via Kafka |
+| **AI Job-Hunt Copilot** | Application tracker, resume tailoring, and mock-interview tool — also a hands-on Spring AI learning project |
 
----
+### 📚 Earlier Work
 
-## 📌 Areas of Interest
-
-* Backend Engineering
-* Distributed Systems
-* Microservices
-* Cloud Native Applications
-* AI Engineering
-* Performance Optimization
-* DevOps Automation
+| Project | What it does |
+|---|---|
+| **LibraryX** | Distributed library management system — Kubernetes, gRPC, Redis, ELK stack |
+| **Invoice Guard** | Automated invoice fraud detection pipeline |
 
 ---
 
-## 📈 GitHub Stats
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-s1&show_icons=true&theme=github_dark" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-s1&layout=compact&theme=github_dark" height="170">
-</p>
+**Languages & Frameworks**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🔥 GitHub Streak
+**Data & Messaging**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sourabh-s1&theme=github-dark&hide_border=true"/>
-</p>
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+**Infra & Tools**
 
-## 💡 What You'll Find Here
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-* Enterprise Java projects
-* Spring Boot applications
-* Microservices
-* Docker & Kubernetes experiments
-* AI-powered developer tools
-* Learning projects
-* Open-source contributions
+**AI / Local Inference**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
-* LinkedIn: www.linkedin.com/in/sourabh-hupare
-* GitHub: https://github.com/sourabh-s1/
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-> *"Always learning. Always building. Always improving."*
+<div align="center">
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
+</div>
