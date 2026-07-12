@@ -118,8 +118,8 @@ I'm a backend software engineer with **4+ years of experience** building enterpr
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* LinkedIn: www.linkedin.com/in/sourabh-hupare
+* GitHub: https://github.com/sourabh-s1/
 
 ---
 
