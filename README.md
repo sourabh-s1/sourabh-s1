@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | Java | Spring Boot | AI Enthusiast
 
-I'm a backend software engineer with **3+ years of experience** building enterprise banking applications and modern microservices. I enjoy solving complex backend problems, designing scalable systems, and exploring how AI can improve software engineering workflows.
+I'm a backend software engineer with **4+ years of experience** building enterprise banking applications and modern microservices. I enjoy solving complex backend problems, designing scalable systems, and exploring how AI can improve software engineering workflows.
 
 ---
 
