@@ -91,7 +91,7 @@ I'm a backend software engineer with **4+ years of experience** building enterpr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sourabh-s1&show_icons=true&theme=github_dark" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?sourabh-s1=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-s1&layout=compact&theme=github_dark" height="170">
 </p>
 
 ---
@@ -99,7 +99,7 @@ I'm a backend software engineer with **4+ years of experience** building enterpr
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sourabh-s1&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
