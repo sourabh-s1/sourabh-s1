@@ -1,6 +1,9 @@
 <div align="center">
+  <h2>Hi, Im Sourabh 👋</h2>
+</div>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sourabh+%F0%9F%91%8B;Java+Backend+Developer;Fintech+%26+Distributed+Systems;Building+Trust+Layers+for+AI+Agents" alt="Typing SVG" />
+<img src="https://cdn.discordapp.com/emojis/1043195047228752002.webp?size=160&animated=true" alt="Typing SVG" />
 
 </div>
 
