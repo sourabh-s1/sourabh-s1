@@ -20,6 +20,7 @@ I enjoy solving complex backend problems, modernizing legacy systems, and buildi
 - Java 8/11/17
 - Spring Boot & Spring Framework
 - Spring MVC
+- Spring AI
 - REST API Design
 - Microservices Architecture
 - Apache Camel Integration
